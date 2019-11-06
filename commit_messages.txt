@@ -226,6 +226,8 @@ Made it to compile...
 Major fixup.
 Make Sure You Are Square With Your God Before Trying To Merge This
 Make that it works in 90% of the cases.  3:30.
+Make the world a better place, a few bits at a time.
+Make the world a worst place, a few bits at a time.
 Merge pull my finger request
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
 Merging 'WIP: Do Not Merge This Branch' Into Master
